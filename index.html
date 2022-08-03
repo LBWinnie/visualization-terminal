@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, maximum-scale=1" />
+
+    <title>大数据可视化期末</title>
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script src="./js/echarts.min.js"></script>
+  </head>
+  <body>
+    <!--首页———————————————————————————————————————————————————————————————————————————-->
+    <header class="index" id="index">
+      <div class="VideoBG">
+        <video autoplay loop muted="" preload width="100%" height="100%">
+          <source src="video/video.mp4" />
+        </video>
+      </div>
+      <div class="indexBG"></div>
+      <div class="index-content">
+        <p class="title">诅&nbsp咒&nbsp假&nbsp面&nbsp的&nbsp冷&nbsp笑</p>
+        <p class="from">
+          冷麺を呪う作り笑い&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp选自《名侦探柯南》：
+          <a
+            class="conan"
+            href="https://www.bilibili.com/bangumi/play/ep322005?from_spmid=666.25.episode.0"
+            target="_blank"
+            >198</a
+          >&nbsp-&nbsp
+          <a
+            class="conan"
+            href="https://www.bilibili.com/bangumi/play/ep322006?from_spmid=666.25.episode.0"
+            target="_blank"
+            >199</a
+          >
+        </p>
+        <br />
+        <a class="link btnlink" href="#premise">真実はいつもひとつ! </a>
+      </div>
+    </header>
+
+    <!--导航———————————————————————————————————————————————————————————————————————————-->
+    <nav class="navigation" id="navigation">
+      <ul class="main-nav">
+        <li><a href="#premise" class="navs">·&nbsp案件详情&nbsp·</a></li>
+        <li><a href="#relation" class="navs">·&nbsp人物关系&nbsp·</a></li>
+        <li class="mask-logo">
+          <a href="#index"
+            ><img
+              src="img/mask-logo1.png"
+              onmouseover="this.src='img/mask-logo2.png'"
+              onmouseout="this.src='img/mask-logo1.png'"
+              alt="mask-logo"
+          /></a>
+        </li>
+        <li><a href="#scene" class="navs">·&nbsp案发场景&nbsp·</a></li>
+        <li><a href="#means" class="navs">·&nbsp作案手法&nbsp·</a></li>
+      </ul>
+    </nav>
+    <!--案件详情————————————————————————————————————————————————————————————————————————-->
+    <section class="main-section premise-part" id="premise">
+      <div class="premise-title">
+        <h2>—— 案件详情 ——</h2>
+      </div>
+      <div class="letter">
+        <img src="./img/letter.png" alt="诅咒信" width="100%" />
+      </div>
+      <div class="premise-content">
+        <p class="Pcnt">
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp故事开始于毛利小五郎受到苏芳红子的宴会的邀请，于是他带着柯南还有小兰开着车去往苏芳红子的家参加宴会。在路上，他们遇到来了一棵树倒在了路中间，是他们不得不下车查看一下到底是什么情况，在树的下面有一封信，那是一封威胁信，威胁小五郎他们不要协助苏芳红子的慈善晚会。
+        </p>
+        <br />
+        <p class="Pcnt">
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp当他们到达了苏芳女士的家之后，看到了摄影家片桐正纪、全垒打棒球手松平守、塔罗牌占卜师常良遥小姐还有歌手冬矢先生都来到这里赴宴。由于屋子是对称的，客人分两队进入屋子，在中间的大厅相遇，那个大厅里面是收藏面具的，由于柯南不小心碰到按钮，让众人看到了200个萧布尔的假面，人称诅咒假面。
+        </p>
+        <br />
+        <p class="Pcnt">
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp在苏芳女士的解释之下，让毛利小五郎等一行人知道了诅咒假面这个名字的由来，就是因为那个雕刻家萧布尔被兄长骗财之后性格变得古怪起来，后来不断地雕刻这些面具，等他雕刻到第200个的时候，他就结束了自己的生命。而且全都沾满血的面具散落在四周，就好像在吸食萧布尔的血一样。他死后声名大起，而这些面具都落在了不同的人的手里，但是这些人后来以悲剧死亡。从此就流传这样的流言蜚语。
+          苏芳女士为了不让这些面具出来作怪，晚上十二点就会把这个大厅锁上。然而当天晚上，苏芳在自己的卧室死去了，同时在苏芳的尸体旁边散落了诅咒的假面，而且面具上也沾满了血，但是卧室上了两道锁，也就是一个密室，一般人是进不去的，所以说在场的人根本没可能犯下这个案件，难道，这真的是假面的诅咒吗？还是凶手用了不为人知的手法？
+        </p>
+      </div>
+    </section>
+
+    <!--人物关系————————————————————————————————————————————————————————————————————————-->
+    <section class="main-section relation-part" id="relation">
+      <div class="relation-title">
+        <h2>—— 人物关系 ——</h2>
+      </div>
+      <div class="graph">
+        <div id="relation-graph"></div>
+      </div>
+      <div class="describe">
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #d36661">
+            <p>苏芳红子</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/苏芳红子.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #8cbfa8">
+            <p>下笠美奈穗</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/下笠美奈穗.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #6fb3b6">
+            <p>下笠穗奈美</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/下笠穗奈美.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid pink">
+            <p>稻叶和代</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/稻叶和代.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #efe08b">
+            <p>蓝川冬矢</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/蓝川冬矢.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #d99480">
+            <p>片桐正纪</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/片桐正纪.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid plum">
+            <p>长良遥</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/长良遥.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+        <div class="rolesItem">
+          <div class="rolesName" style="border-left: 5px solid #73a273">
+            <p>松平守</p>
+          </div>
+          <ul>
+            <li class="roleImage">
+              <img src="./img/松平守.png" width="100%" alt="" />
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!--案发场景————————————————————————————————————————————————————————————————————————-->
+    <section class="main-section scene-part" id="scene">
+      <h2>—— 案发场景 ——</h2>
+      <div id="first-floor"></div>
+      <hr />
+      <div id="second-floor"></div>
+      <hr />
+      <div id="bedroom"></div>
+    </section>
+
+    <!--作案手法————————————————————————————————————————————————————————————————————————-->
+    <section class="main-section means-part" id="means">
+      <div class="means-title">
+        <h2>—— 作案手法 ——</h2>
+      </div>
+      <div class="means-pic">
+        <div class="item">
+          <div class="pic">
+            <img src="./img/行凶.png" width="100%" alt="行凶" />
+          </div>
+          <div class="desc">
+            <h4>查看解说</h4>
+            <p>
+              &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp被害人所睡的床和正对面的门上方的气窗，直线距离大概是3.5m，而每张假面的厚度是15cm，200张假面正好3m。
+              凶手在一条橡皮筋的中段穿上匕首，然后捏着皮筋两端将匕首从换气口垂入屋内，继而将假面嘴部穿过这条皮筋两端，
+              再将双眼分别穿过另一条皮筋的两端，如此一张张垂入屋内。最后只要拉紧皮筋，所有假面就会整齐排列成一条长龙，
+              而龙嘴里衔着的匕首就正对着躺在床上的主人喉部，这时候只要用尺子之类工具隔着换气窗将最末端的假面一捅，
+              匕首就会直插进主人喉咙；再然后剪断皮筋，假面就会弹开并落一地。制造出是诅咒杀害苏芳女士的现象。
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="svg-door">
+        <div id="door"></div>
+      </div>
+    </section>
+    <!--声明———————————————————————————————————————————————————————————————————————————-->
+    <footer class="footer" style="background-color: #ededed">
+      <span class="copyright"
+        >&copy;190808114吴丽滨 & 190808116张馨文&nbsp. All Rights Reserved</span
+      >
+    </footer>
+
+    <script type="text/javascript">
+      $(document).ready(function (e) {
+        $("#navigation").scrollToFixed();
+      });
+      $(window).load(function () {
+        $(".main-nav li a, .btnlink").bind("click", function (event) {
+          var $anchor = $(this);
+
+          $("html, body")
+            .stop()
+            .animate(
+              {
+                scrollTop: $($anchor.attr("href")).offset().top - 80,
+              },
+              1500,
+              "easeInOutExpo"
+            );
+
+          event.preventDefault();
+        });
+      });
+    </script>
+    <script src="./js/echarts-relationship.js"></script>
+    <script src="./js/svg.first-floor.js"></script>
+    <script src="./js/svg.second-floor.js"></script>
+    <script src="./js/svg.bedroom.js"></script>
+    <script src="./js/svg.door.js"></script>
+  </body>
+</html>

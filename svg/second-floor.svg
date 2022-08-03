@@ -1,0 +1,104 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>城堡二楼</title>
+    <rect stroke-width="2" fill="#444444" stroke="#ddd" x="0" y="0" width="800" height="600" id="background"/>
+  <line id="svg_1" y2="480" x2="30" y1="30" x1="30" stroke="#ddd" fill="none"/>
+  <line id="svg_2" y2="480" x2="770" y1="30" x1="770" stroke="#ddd" fill="none"/>
+  <line id="svg_3" y2="540" x2="550" y1="540" x1="250" stroke="#ddd" fill="none"/>
+  <rect name="假面展厅" stroke="#ddd" id="svg_6" height="220" width="90" y="320" x="355" fill="#9fc5e8"/>
+  <line id="svg_8" y2="540" x2="250" y1="480" x1="250" stroke="#ddd" fill="none"/>
+  <line id="svg_9" y2="540" x2="550" y1="480" x1="550" stroke="#ddd" fill="none"/>
+  <line id="svg_10" y2="480" x2="770" y1="480" x1="550" stroke="#ddd" fill="none"/>
+  <line id="svg_12" y2="480" x2="250" y1="480" x1="30" stroke="#ddd" fill="none"/>
+  <rect id="svg_18" height="120" width="60" y="320" x="130" stroke="#ddd" fill="none"/>
+  <rect id="svg_21" height="120" width="60" y="320" x="70" stroke="#ddd" fill="none"/>
+  <rect id="svg_22" height="120" width="60" y="320" x="190" stroke="#ddd" fill="none"/>
+  <line id="svg_23" y2="30" x2="130" y1="320" x1="130" stroke="#ddd" fill="none"/>
+  <rect id="svg_24" height="120" width="60" y="320" x="550" stroke="#ddd" fill="#d99480" name="片桐正纪"/>
+  <rect name="松平守" id="svg_25" height="120" width="60" y="320" x="610" stroke="#ddd" fill="#73a273"/>
+  <rect id="svg_26" height="120" width="60" y="320" x="670.00019" stroke="#ddd" fill="none"/>
+  <line id="svg_27" y2="30" x2="670" y1="320" x1="670" stroke="#ddd" fill="none"/>
+  <line id="svg_29" y2="320" x2="550" y1="320" x1="250" stroke="#ddd" fill="none"/>
+  <line id="svg_34" y2="30" x2="130" y1="30" x1="30" stroke="#ddd" fill="none"/>
+  <line id="svg_36" y2="30" x2="770" y1="30" x1="670" stroke="#ddd" fill="none"/>
+  <rect stroke="#ddd" id="svg_37" height="120" width="60" y="170" x="70" fill="#ea9999" name="小五郎+小兰+柯南"/>
+  <rect id="svg_38" height="70" width="60" y="30" x="30" stroke="#ddd" fill="none"/>
+  <rect id="svg_39" height="70" width="60" y="30" x="710" stroke="#ddd" fill="none"/>
+  <rect stroke="#ddd" id="svg_40" height="120" width="60" y="170" x="670" fill="plum" name="长良遥"/>
+  <line id="svg_41" y2="440" x2="69.80544" y1="100" x1="70" stroke="#ddd" fill="none"/>
+  <line id="svg_42" y2="440" x2="730" y1="100" x1="730" stroke="#ddd" fill="none"/>
+  <line id="svg_43" y2="65" x2="130" y1="65" x1="90" stroke="#ddd" fill="none"/>
+  <line id="svg_44" y2="65" x2="710" y1="65" x1="670" stroke="#ddd" fill="none"/>
+  <line id="svg_45" y2="500" x2="355" y1="500" x1="250" stroke="#ddd" fill="none"/>
+  <line id="svg_46" y2="500" x2="550" y1="500" x1="445" stroke="#ddd" fill="none"/>
+  <rect id="svg_65" height="25" width="90.0659" y="294.92053" x="355" stroke="#ddd" fill="none"/>
+  <rect id="svg_5" height="71.95141" width="6.09758" y="380" x="349" stroke="#ddd" fill="#ccc" name="西门"/>
+  <rect id="svg_4" height="71.95141" width="6.09758" y="380" x="445" stroke="#ddd" fill="#ccc" name="东门"/>
+  <path name="西锁" id="svg_7" d="m363.10459,412.4384l0,-3.84536l-0.00168,0c-0.00168,-4.74632 -4.75913,-8.59305 -10.62917,-8.59305s-10.62917,3.84808 -10.62917,8.5944l0,0l0,3.84401l-3.84456,0l0,16.50901l28.94746,0l0,-16.50901l-3.84288,0zm-17.90212,-3.84401c0,0 0,0 0,0c0,-3.24291 3.26225,-5.88067 7.27127,-5.88067c4.01237,0 7.27462,2.63775 7.27462,5.87931c0,0 0,0 0,0l0,3.84536l-14.54589,0l0,-3.84401l0,0.00001z" stroke="#ddd" fill="#ccc"/>
+  <path name="东锁" id="svg_13" d="m459.10459,412.4384l0,-3.84536l-0.00167,0c-0.00168,-4.74633 -4.75914,-8.59305 -10.62918,-8.59305s-10.62917,3.84808 -10.62917,8.5944l0,0l0,3.84401l-3.84456,0l0,16.50902l28.94746,0l0,-16.50902l-3.84288,0zm-17.90212,-3.84401c0,0 0,0 0,0c0,-3.24291 3.26226,-5.88066 7.27127,-5.88066c4.01237,0 7.27463,2.63775 7.27463,5.87931c0,0 0,0 0,0l0,3.84536l-14.5459,0l0,-3.84401z" stroke="#ddd" fill="#ccc"/>
+  <g name="西梯" id="svg_75">
+   <rect id="svg_32" height="120" width="35" y="320" x="250" fill="#ccc" stroke="#ddd"/>
+   <rect id="svg_30" height="30" width="80" y="320" x="250" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_47" y2="350" x2="285" y1="319.57572" x1="285" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_48" y2="350" x2="290" y1="319.57572" x1="290" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_49" y2="350" x2="295" y1="319.57572" x1="295" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_50" y2="350" x2="300" y1="320" x1="300" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_51" y2="350" x2="305" y1="320" x1="305" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_52" y2="350" x2="310" y1="320" x1="310" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_53" y2="350" x2="315" y1="320" x1="315" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_54" y2="350" x2="320" y1="320" x1="320" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_55" y2="350" x2="325" y1="320" x1="325" stroke="#ddd" fill="#ccc"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="355" x2="285" y2="355" id="svg_11"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="360" x2="285" y2="360" id="svg_14"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="365" x2="285" y2="365" id="svg_15"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="370" x2="285" y2="370" id="svg_16"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="375" x2="285" y2="375" id="svg_17"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="380" x2="285" y2="380" id="svg_19"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="385" x2="285" y2="385" id="svg_20"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="390" x2="285" y2="390" id="svg_28"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="395" x2="285" y2="395" id="svg_35"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="400" x2="285" y2="400" id="svg_66"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="405" x2="285" y2="405" id="svg_67"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="410" x2="285" y2="410" id="svg_68"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="415" x2="285" y2="415" id="svg_69"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="420" x2="285" y2="420" id="svg_70"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="425" x2="285" y2="425" id="svg_71"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="430" x2="285" y2="430" id="svg_72"/>
+   <line fill="none" stroke="#ddd" x1="250" y1="435" x2="285" y2="435" id="svg_73"/>
+  </g>
+  <g name="东梯" id="svg_92">
+   <rect id="svg_33" height="120" width="35" y="320" x="515" stroke="#ddd" fill="#ccc"/>
+   <rect id="svg_31" height="30" width="80" y="320" x="470" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_56" y2="350" x2="475" y1="320" x1="475" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_57" y2="350" x2="480" y1="320" x1="480" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_58" y2="350" x2="485" y1="320" x1="485" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_59" y2="350" x2="490" y1="320" x1="490" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_60" y2="350" x2="495" y1="320" x1="495" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_61" y2="350" x2="500" y1="320" x1="500" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_62" y2="350" x2="505" y1="320" x1="505" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_63" y2="350" x2="510" y1="320" x1="510" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_64" y2="350" x2="515" y1="320" x1="515" stroke="#ddd" fill="#ccc"/>
+   <line id="svg_74" y2="355" x2="549.99677" y1="355" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_76" y2="360" x2="549.99677" y1="360" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_77" y2="365" x2="549.99677" y1="365" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_78" y2="370" x2="549.99677" y1="370" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_79" y2="375" x2="549.99677" y1="375" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_80" y2="380" x2="549.99677" y1="380" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_81" y2="385" x2="549.99677" y1="385" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_82" y2="390" x2="549.99677" y1="390" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_83" y2="395" x2="549.99677" y1="395" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_84" y2="400" x2="549.99677" y1="400" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_85" y2="405" x2="549.99677" y1="405" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_86" y2="410" x2="549.99677" y1="410" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_87" y2="415" x2="549.99677" y1="415" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_88" y2="420" x2="549.99677" y1="420" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_89" y2="425" x2="549.99677" y1="425" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_90" y2="430" x2="549.99677" y1="430" x1="514.6708" stroke="#ddd" fill="none"/>
+   <line id="svg_91" y2="435" x2="549.99677" y1="435" x1="514.6708" stroke="#ddd" fill="none"/>
+  </g>
+    <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="36" id="svg_60" y="150" x="330" stroke-width="0" stroke="#ddd" fill="#ddd">城堡二楼</text>
+ <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="550" x="100" stroke-width="0" stroke="#ddd" fill="#ddd">西侧</text>
+ <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="550" x="650" stroke-width="0" stroke="#ddd" fill="#ddd">东侧</text>
+ </g>
+
+</svg>

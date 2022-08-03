@@ -1,0 +1,37 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2444444/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect stroke-width="2" fill="#845335" stroke="#444444" x="65" y="-0.25075" width="470" height="20" id="svg_12"/>
+  <path stroke-width="2" id="svg_14" d="m75,35l60,0l0,130l-60,0l0,-130z" opacity="undefined" stroke="#444444" fill="#C48157"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="465" y="35" width="60" height="130" id="svg_15"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="65" y="164.88999" width="470" height="10" id="svg_16"/>
+  <rect stroke-width="2" fill="#845335" stroke="#444444" x="75" y="175" width="450" height="20" id="svg_17"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="65" y="195" width="470" height="10" id="svg_19"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="75" y="204.89009" width="60" height="395" id="svg_20"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="465" y="204.89009" width="60" height="395" id="svg_21"/>
+  <rect stroke-width="2" id="svg_1" height="395" width="330" y="205" x="135" stroke="#444444" fill="#845335"/>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="200" y="289" width="200" height="120" id="svg_23"/>
+  <rect stroke-width="2" fill="#845335" x="209.99999" y="299.66669" width="180" height="100" id="svg_25" stroke="#444444"/>
+  <ellipse stroke-width="2" fill="#845335" stroke="#444444" cx="105.33289" cy="238.2235" id="svg_26" rx="10" ry="10"/>
+  <rect stroke-width="2" fill="#845335" stroke="#444444" x="99.99955" y="280" width="10" height="150" id="svg_27"/>
+  <rect stroke-width="2" fill="#845335" stroke="#444444" x="125" y="280" width="10" height="30" id="svg_28"/>
+  <rect stroke-width="2" fill="none" stroke="#444444" x="135" y="285.33335" width="10" height="30" id="svg_29"/>
+  <rect stroke-width="2" id="svg_2" height="20" width="60" y="60" x="74.78992" stroke="#444444" fill="#845335"/>
+  <rect stroke-width="2" id="svg_3" height="20" width="60" y="120" x="75" stroke="#444444" fill="#845335"/>
+  <rect stroke-width="2" id="svg_4" height="20" width="60" y="60" x="465" stroke="#444444" fill="#845335"/>
+  <rect stroke-width="2" id="svg_5" height="20" width="60" y="120" x="464.70587" stroke="#444444" fill="#845335"/>
+  <g id="svg_22" name="气窗">
+   <rect stroke-width="2" id="svg_6" height="130" width="15" y="35" x="153.44444401" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_7" height="130" width="15" y="35" x="193.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_8" height="130" width="15" y="35" x="233.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_9" height="130" width="15" y="35" x="272.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_10" height="130" width="15" y="35" x="313.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_11" height="130" width="15" y="35" x="353.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_13" height="130" width="15" y="35" x="393.37816" stroke="#444444" fill="#845335"/>
+   <rect stroke-width="2" id="svg_18" height="130" width="15" y="35" x="433.37816" stroke="#444444" fill="#845335"/>
+  </g>
+  <rect stroke-width="2" fill="#C48157" stroke="#444444" x="65" y="20" width="470" height="15" id="svg_24"/>
+
+ </g>
+
+</svg>

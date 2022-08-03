@@ -1,0 +1,69 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2ddd/svg">
+ <g>
+  <title>被害人卧室</title>
+  <rect stroke-width="2" id="svg_58" height="600" width="800" y="0" x="0" stroke="#ddd" fill="#444444"/>
+  <line fill="none" x1="-0.34973" y1="35.06" x2="149.65027" y2="35.06" id="svg_3" stroke="#ddd"/>
+  <line fill="none" x1="649.65027" y1="35.06" x2="799.65027" y2="35.06" id="svg_4" stroke="#ddd"/>
+  <line fill="none" stroke="#ddd" x1="649.65027" x2="649.65027" y2="50.06" id="svg_8" y1="35.06"/>
+  <line fill="none" stroke="#ddd" x1="149.65027" x2="149.65027" y2="50.06" id="svg_9" y1="35.06"/>
+  <path fill="none" stroke="#ddd" opacity="undefined" d="m149.65027,48.06" id="svg_22"/>
+  <line fill="none" stroke="#ddd" x1="479.65027" y1="480.06" x2="479.65027" y2="495.06" id="svg_43"/>
+  <line fill="none" stroke="#ddd" x1="319.65027" y1="480.06" x2="319.65027" y2="495.06" id="svg_44"/>
+  <line fill="none" x1="79.65027" y1="50.06" x2="149.65027" y2="50.06" id="svg_2" stroke="#ddd"/>
+  <line fill="none" stroke="#ddd" x1="79.65027" y1="320.06" x2="79.65027" y2="50.06" id="svg_11"/>
+  <line fill="none" stroke="#ddd" x1="64.65027" y1="320.06" x2="64.65027" y2="50.06" id="svg_34"/>
+  <line fill="none" x1="-0.34973" y1="50.06" x2="64.65027" y2="50.06" id="svg_35" stroke="#ddd"/>
+  <path fill="none" stroke="#ddd" opacity="undefined" d="m64.96496,320.06l14.68526,0" id="svg_36"/>
+  <line fill="none" stroke="#ddd" x1="64.65027" y1="420.06" x2="63.65027" y2="600.06" id="svg_37"/>
+  <line fill="none" stroke="#ddd" x1="79.65027" y1="480.06" x2="319.65027" y2="480.06" id="svg_38"/>
+  <line fill="none" stroke="#ddd" x1="79.65027" y1="420.06" x2="79.65027" y2="480.23681" id="svg_39"/>
+  <line fill="none" stroke="#ddd" x1="64.65024" y1="420.06" x2="79.29822" y2="420.06" id="svg_40"/>
+  <line fill="none" stroke="#ddd" x1="79.65027" y1="495.06" x2="319.65027" y2="495.06" id="svg_41"/>
+  <line fill="none" stroke="#ddd" x1="79.65027" y1="495.06" x2="79.65027" y2="600.06" id="svg_42"/>
+  <rect fill="none" x="189.65027" width="420" height="15" id="svg_1" stroke="#ddd" y="35.06"/>
+  <line fill="none" x1="649.65027" y1="50.06" x2="719.65027" y2="50.06" id="svg_5" stroke="#ddd"/>
+  <line fill="none" stroke="#ddd" x1="719.65027" y1="480.06" x2="719.65027" y2="50.06" id="svg_10"/>
+  <line fill="none" stroke="#ddd" x1="734.65027" y1="520.06" x2="734.65027" y2="50.06" id="svg_13"/>
+  <line fill="none" x1="734.65027" y1="50.06" x2="799.65027" y2="50.06" id="svg_14" stroke="#ddd"/>
+  <line fill="none" stroke="#ddd" x1="479.65027" y1="480.06" x2="719.65027" y2="480.06" id="svg_15"/>
+  <line fill="none" stroke="#ddd" x1="479.65027" y1="495.06" x2="719.65027" y2="495.06" id="svg_16"/>
+  <line fill="none" stroke="#ddd" x1="719.65027" y1="494.95987" x2="719.65027" y2="520.07" id="svg_17"/>
+  <line fill="none" stroke="#ddd" x1="734.65027" y1="520.06" x2="719.65027" y2="520.06" id="svg_18"/>
+  <line fill="none" stroke="#ddd" x1="729.65027" y1="520.06" x2="729.65027" y2="600.06" id="svg_31"/>
+  <line fill="none" stroke="#ddd" x1="724.65027" y1="520.06" x2="724.65027" y2="600.06" id="svg_32"/>
+  <line id="svg_53" y2="600.06" x2="730.00549" y1="600.06" x1="724.65029" stroke="#ddd" fill="none"/>
+  <line id="svg_54" y2="599.8147" x2="79.65027" y1="599.8147" x1="64.65027" stroke="#ddd" fill="none"/>
+  <line id="svg_55" y2="50.06" x2="800.01" x1="800.01" stroke="#ddd" fill="none" y1="35.06"/>
+  <line id="svg_59" y2="50.06" x2="-0.34969" x1="0.0343" stroke="#ddd" fill="none" y1="35.06"/>
+  <g id="fanlight" name="气窗">
+   <rect id="svg_6" height="8" width="10" y="485.06" x="319.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_7" height="8" width="10" y="485.06" x="334.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_12" height="8" width="10" y="485.06" x="349.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_19" height="8" width="10" y="485.06" x="364.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_21" height="8" width="10" y="485.06" x="379.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_24" height="8" width="10" y="485.06" x="394.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_25" height="8" width="10" y="485.06" x="409.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_26" height="8" width="10" y="485.06" x="424.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_27" height="8" width="10" y="485.06" x="439.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_28" height="8" width="10" y="485" x="454.65026" stroke="#ddd" fill="lightblue"/>
+   <rect id="svg_29" height="8" width="10" y="485" x="469.65026" stroke="#ddd" fill="lightblue"/>
+  </g>
+  <rect id="svg_30" height="100" width="5" y="320.06" x="69.65027" stroke="#ddd" fill="#ccc" name="门"/>
+  <rect name="窗" fill="lightblue" stroke="#ddd" x="609.65027" y="41.66676" width="40" height="8" id="svg_20"/>
+  <rect name="窗" fill="lightblue" stroke="#ddd" x="149.65027" y="41.66676" width="40" height="8" id="svg_23"/>
+  <rect id="svg_45" height="280" width="200" y="80" x="300" stroke="#ddd" fill="grey" name="床"/>
+  <path id="svg_46" d="m399.89054,137.02888c7.41204,0 13.42784,-5.91542 13.42784,-13.21294c0,-7.30162 -6.01579,-13.22113 -13.42784,-13.22113c-7.4183,0 -13.43615,5.91951 -13.43615,13.22113c0,7.29752 6.01578,13.21294 13.43615,13.21294zm37.65953,56.98374l-12.0503,-43.9776c-0.11237,-0.39927 -0.27053,-0.78012 -0.46194,-1.1323c-1.36922,-4.1197 -5.29997,-7.103 -9.94239,-7.103l-30.49926,0c-4.8401,0 -8.90406,3.23925 -10.10054,7.63537c-0.08116,0.19247 -0.14774,0.39518 -0.20808,0.60403l-11.83598,43.97556c-0.78866,2.88296 0.95095,5.84579 3.88495,6.62182c2.92987,0.77193 5.94091,-0.93983 6.72956,-3.82279l9.29523,-34.54448l3.87249,0l-16.8696,62.50193l15.89578,0l0,43.15038c0,3.31911 2.73009,6.00755 6.10734,6.00755c3.36892,0 6.10526,-2.68641 6.10526,-6.00755l0,-43.15038l4.85675,0l0,43.15038c0,3.31911 2.73425,6.00755 6.11151,6.00755c3.36892,0 6.10526,-2.68641 6.10526,-6.00755l0,-43.15038l15.88742,0l-16.93201,-62.50193l3.97446,0l9.46585,34.54448c0.78865,2.88296 3.79968,4.59472 6.72953,3.82279c2.92363,-0.77603 4.66323,-3.7409 3.87874,-6.62387l-0.01,0l-0.01,-0.01l-0.01,0z" fill="#d36661" name="苏芳红子" stroke="#ddd"/>
+  <rect fill="none" stroke="#ddd" x="110" y="49.56222" width="130" height="80" id="svg_33"/>
+  <rect fill="none" stroke="#ddd" x="540" y="50" width="130" height="80" id="svg_47"/>
+  <ellipse name="台灯" fill="lightyellow" stroke="#ddd" cx="150" cy="90" id="svg_48" rx="25" ry="25"/>
+  <ellipse name="台灯" fill="lightyellow" stroke="#ddd" cx="630" cy="90" id="svg_49" rx="25" ry="25"/>
+  <rect id="svg_50" height="30" width="20" y="65" x="555" stroke="#ddd" fill="grey" name="电话机"/>
+  <rect fill="#ccc" stroke="#ddd" x="580" y="155" width="50" height="50" id="svg_51" name="椅子"/>
+  <rect fill="#ccc" stroke="#ddd" x="90" y="235" width="40" height="40" id="svg_52" name="椅子"/>
+  <rect fill="#ccc" stroke="#ddd" x="675" y="310" width="30" height="119.56556" id="svg_56" name="桌子"/>
+  <path fill="#ccc" stroke="#ddd" d="m82.5092,364.01167l0,-4.33174l-0.00164,0c-0.00164,-5.34665 -4.64626,-9.67992 -10.37709,-9.67992s-10.37709,4.33479 -10.37709,9.68145l0,0l0,4.33021l-3.75338,0l0,18.59712l28.26095,0l0,-18.59712l-3.75174,0l-0.01,0zm-17.47755,-4.33021c0,0 0,0 0,0c0,-3.65309 3.18489,-6.62447 7.09882,-6.62447c3.91721,0 7.1021,2.97138 7.1021,6.62294c0,0 0,0 0,0l0,4.33174l-14.20092,0l0,-4.33021z" id="svg_57" name="双道锁"/>
+ <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="420" x="340" stroke-width="0" stroke="#ddd" fill="#ddd">被害人卧室</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="560" x="350" stroke-width="0" stroke="#ddd" fill="#ddd">行凶卧室</text>
+ </g>
+
+</svg>

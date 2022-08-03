@@ -1,0 +1,106 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2ddd/svg">
+ <g>
+  <title>城堡一楼</title>
+  <rect stroke-width="2" fill="#444444" stroke="#ddd" x="0" y="0" width="800" height="600" id="background"/>
+  <line fill="none" stroke="#ddd" x1="450" y1="300" x2="450" y2="500" id="svg_4"/>
+  <line fill="none" stroke="#ddd" x1="770" y1="30" x2="770" y2="420" id="svg_6"/>
+  <line fill="none" stroke="#ddd" x1="30" y1="30" x2="30" y2="420" id="svg_1"/>
+  <line fill="none" stroke="#ddd" x1="250" y1="420" x2="250" y2="500" id="svg_2"/>
+  <line fill="none" stroke="#ddd" x1="350" y1="300" x2="350" y2="500" id="svg_3"/>
+  <line fill="none" stroke="#ddd" x1="30" y1="420" x2="250" y2="420" id="svg_7"/>
+  <line fill="none" stroke="#ddd" x1="150" y1="300" x2="350" y2="300" id="svg_9"/>
+  <line fill="none" stroke="#ddd" x1="30" y1="30" x2="150" y2="30" id="svg_11"/>
+  <line fill="none" stroke="#ddd" x1="150" y1="30" x2="150" y2="300" id="svg_12"/>
+  <line fill="none" stroke="#ddd" x1="250" y1="500" x2="350" y2="500" id="svg_16"/>
+  <rect fill="none" stroke="#ddd" x="30" y="30" width="70" height="70" id="svg_20"/>
+  <line fill="none" stroke="#ddd" x1="100" y1="70" x2="150" y2="70" id="svg_22"/>
+  <rect fill="#6fb3b6" stroke="#ddd" x="70" y="150" width="80" height="75" id="svg_24" name="下笠穗奈美"/>
+  <rect name="蓝川冬矢" fill="#efe08b" stroke="#ddd" x="70" y="225" width="80" height="75" id="svg_25"/>
+  <rect fill="none" stroke="#ddd" x="70" y="300" width="80" height="90" id="svg_28"/>
+  <rect fill="none" stroke="#ddd" x="150" y="300" width="100" height="90" id="svg_30"/>
+  <rect fill="none" stroke="#ddd" x="250" y="300" width="80" height="35" id="svg_32"/>
+  <line fill="none" stroke="#ddd" x1="70" y1="100" x2="70" y2="150" id="svg_34"/>
+  <ellipse fill="none" cx="290" cy="380" id="svg_41" rx="10" ry="10" stroke="#ddd"/>
+  <g id="svg_15" name="西-次梯-左">
+   <rect fill="#ccc" stroke="#ddd" x="250" y="335" width="25" height="55" id="svg_36"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="345" x2="275" y2="345" id="svg_44"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="350" x2="275" y2="350" id="svg_45"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="340" x2="275" y2="340" id="svg_46"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="355" x2="275" y2="355" id="svg_47"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="360" x2="275" y2="360" id="svg_48"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="365" x2="275" y2="365" id="svg_49"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="370" x2="275" y2="370" id="svg_50"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="375" x2="275" y2="375" id="svg_51"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="380" x2="275" y2="380" id="svg_52"/>
+   <line fill="#ccc" stroke="#ddd" x1="250" y1="385" x2="275" y2="385" id="svg_53"/>
+  </g>
+  <g name="西-次梯-右" id="svg_38">
+   <rect fill="#ccc" stroke="#ddd" x="305" y="335" width="25" height="55" id="svg_37"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="340" x2="330" y2="340" id="svg_54"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="345" x2="330" y2="345" id="svg_55"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="350" x2="330" y2="350" id="svg_56"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="355" x2="330" y2="355" id="svg_57"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="360" x2="330" y2="360" id="svg_58"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="365" x2="330" y2="365" id="svg_59"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="370" x2="330" y2="370" id="svg_60"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="375" x2="330" y2="375" id="svg_61"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="380" x2="330" y2="380" id="svg_62"/>
+   <line fill="#ccc" stroke="#ddd" x1="305" y1="385" x2="330" y2="385" id="svg_63"/>
+  </g>
+  <g id="svg_89" name="西-主梯">
+   <rect fill="#ccc" stroke="#ddd" x="270" y="500" width="60" height="50" id="svg_18"/>
+   <line fill="#ccc" stroke="#ddd" x1="270" y1="540" x2="330" y2="540" id="svg_85"/>
+   <line fill="#ccc" stroke="#ddd" x1="270" y1="530" x2="330" y2="530" id="svg_86"/>
+  </g>
+  <line fill="none" stroke="#ddd" x1="550" y1="420" x2="550" y2="500" id="svg_5"/>
+  <line fill="none" stroke="#ddd" x1="550" y1="420" x2="770" y2="420" id="svg_8"/>
+  <line fill="none" stroke="#ddd" x1="450" y1="300" x2="650" y2="300" id="svg_10"/>
+  <line fill="none" stroke="#ddd" x1="650" y1="30" x2="650" y2="300" id="svg_13"/>
+  <line fill="none" stroke="#ddd" x1="650" y1="30" x2="770" y2="30" id="svg_14"/>
+  <line fill="none" stroke="#ddd" x1="450" y1="500" x2="550" y2="500" id="svg_17"/>
+  <rect fill="none" stroke="#ddd" x="700" y="30" width="70" height="70" id="svg_21"/>
+  <line fill="none" x1="650" y1="70" x2="700" y2="70" id="svg_23" stroke="#ddd"/>
+  <rect fill="#8cbfa8" stroke="#ddd" x="650" y="150" width="80" height="75" id="svg_26" name="下笠美奈穗"/>
+  <rect name="稻叶和代" fill="pink" stroke="#ddd" x="650" y="225" width="80" height="75" id="svg_27"/>
+  <rect fill="none" stroke="#ddd" x="650" y="300" width="80" height="90" id="svg_29"/>
+  <rect fill="none" stroke="#ddd" x="550" y="300" width="100" height="90" id="svg_31"/>
+  <rect fill="none" stroke="#ddd" x="470" y="300" width="80" height="35" id="svg_33"/>
+  <line fill="none" stroke="#ddd" x1="730" y1="100" x2="730" y2="150" id="svg_35"/>
+  <ellipse fill="none" cx="510" cy="380" id="svg_43" rx="10" ry="10" stroke="#ddd"/>
+  <g id="svg_42" name="东-次梯-左">
+   <rect fill="#ccc" stroke="#ddd" x="470" y="335" width="25" height="55" id="svg_39"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="340" x2="495" y2="340" id="svg_64"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="345" x2="495" y2="345" id="svg_65"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="350" x2="495" y2="350" id="svg_66"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="355" x2="495" y2="355" id="svg_67"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="360" x2="495" y2="360" id="svg_68"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="365" x2="495" y2="365" id="svg_69"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="370" x2="495" y2="370" id="svg_70"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="375" x2="495" y2="375" id="svg_71"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="380" x2="495" y2="380" id="svg_72"/>
+   <line fill="#ccc" stroke="#ddd" x1="470" y1="385" x2="495" y2="385" id="svg_73"/>
+  </g>
+  <g name="东-次梯-右" id="svg_75">
+   <rect fill="#ccc" stroke="#ddd" x="525" y="335" width="25" height="55" id="svg_40"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="340" x2="550" y2="340" id="svg_74"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="345" x2="550" y2="345" id="svg_76"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="350" x2="550" y2="350" id="svg_77"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="355" x2="550" y2="355" id="svg_78"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="360" x2="550" y2="360" id="svg_79"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="365" x2="550" y2="365" id="svg_80"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="370" x2="550" y2="370" id="svg_81"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="375" x2="550" y2="375" id="svg_82"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="380" x2="550" y2="380" id="svg_83"/>
+   <line fill="#ccc" stroke="#ddd" x1="525" y1="385" x2="550" y2="385" id="svg_84"/>
+  </g>
+  <g id="svg_90" name="东-主梯">
+   <rect fill="#ccc" stroke="#ddd" x="470" y="500" width="60" height="50" id="svg_19"/>
+   <line fill="none" stroke="#ddd" x1="470" y1="530" x2="530" y2="530" id="svg_87"/>
+   <line fill="none" stroke="#ddd" x1="470" y1="540" x2="530" y2="540" id="svg_88"/>
+  </g>
+    <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="36" id="svg_60" y="150" x="330" stroke-width="0" stroke="#ddd" fill="#ddd">城堡一楼</text>
+ <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="500" x="100" stroke-width="0" stroke="#ddd" fill="#ddd">西侧</text>
+ <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="500" x="650" stroke-width="0" stroke="#ddd" fill="#ddd">东侧</text>
+ </g>
+
+</svg>
